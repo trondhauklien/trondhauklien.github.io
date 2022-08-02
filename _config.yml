@@ -5,8 +5,7 @@ description: Kompendier i fag på MTNANO på NTNU i Trondheim.
 # Enable or disable heading anchors
 heading_anchors: true
 
-permalink: pretty
-exclude: ["LICENSE.txt", "README.md"]
+exclude: ["LICENSE", "README.md"]
 
 # Aux links for the upper right navigation
 aux_links:
